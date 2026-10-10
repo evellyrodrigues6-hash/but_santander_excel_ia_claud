@@ -48,9 +48,11 @@ Esses nomes ajudam a identificar as informações utilizadas nos cálculos e tor
 
 ## Perfis de investidor
 
-A planilha utiliza percentuais diferentes para distribuir os investimentos conforme o perfil selecionado.
+A planilha trabalha com três perfis de investidor: conservador, moderado e agressivo. Cada perfil possui percentuais específicos para a distribuição dos investimentos, conforme o exemplo apresentado na atividade.
 
-Os percentuais foram retirados do exemplo apresentado na atividade e utilizados como referência para os cálculos da ferramenta.
+O gráfico de pizza permite visualizar como o aporte é dividido entre as categorias de investimento de acordo com o perfil selecionado.
+
+Dessa forma, é possível comparar as estratégias de distribuição e entender como cada perfil influencia a composição da carteira.
 
 ## Alterações em relação à ferramenta do Expert
 
@@ -86,6 +88,8 @@ Também pude entender melhor como organizar os dados de uma planilha e utilizar 
 - Microsoft Excel
 - Funções financeiras e de pesquisa
 - Intervalos nomeados
+- Seleção entre os perfis conservador, moderado e agressivo
+- Gráfico de pizza para visualizar a distribuição dos aportes conforme o perfil escolhido
 
 ## Projeto desenvolvido durante os estudos
 
